@@ -1,0 +1,27 @@
+# Dependency directories
+node_modules/
+
+# Debug log from npm
+npm-debug.log
+
+# Environment Variables should NEVER be published
+.env
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+*.lnk
+
+
+# VS Code
+.vscode/*
+
+
+# a keystore file
+./positive-cacao-445814-h5-3f4288beb35f.json
